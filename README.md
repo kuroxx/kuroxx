@@ -9,6 +9,7 @@
 
 ## ☕️ Connect with me
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1WQa1SAoivUsR3GrdVfOUvUqZpZIqIW0B/view?usp=drive_link)
+[![intro-ppt](https://img.shields.io/badge/Intro_ppt-FBBC04?style=for-the-badge&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/1-cTHwgAFQfiIc10GsFdiiPBeKKkzlv7LwoyxIL0qyrE/edit?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/annichen13/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kuroxx)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hello.annic@gmail.com)
