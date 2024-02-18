@@ -30,4 +30,10 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby)
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroxx&show_icons=true&locale=en&layout=compact" alt="kuroxx" /></p> -->
+<h3 align="left">Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuroxx&show_icons=true&locale=en&layout=compact" alt="kuroxx" /></p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuroxx&show_icons=true&locale=en" alt="kuroxx" /></p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuroxx&" alt="kuroxx" /></p>
