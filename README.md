@@ -13,8 +13,7 @@
 <p align="left">
     <a href="https://linkedin.com/in/annichen13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annichen13" height="30" width="40" /></a>
     <a href="https://instagram.com/anni.in.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anni.in.tech" height="30" width="40" /></a>
-    <a href="https://medium.com/annichen13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="annichen13" height="30" width="40" /></a>
-    <a href="https://medium.com/annichen13" target="blank">
+    <a href="https://medium.com/@annichen13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="annichen13" height="30" width="40" /></a>
 </p>
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1WQa1SAoivUsR3GrdVfOUvUqZpZIqIW0B/view?usp=drive_link)
