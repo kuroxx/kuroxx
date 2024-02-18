@@ -1,6 +1,6 @@
 ### Hello 👋
 
-😃 I am Anni, a full-stack developer with a background in Computer Vision with a passion for using technology to ✨ make life more accessible & efficient ✨.
+🚀 Hi, I'm Anni, a full-stack developer with a background in Computer Vision. Passionate about using technology to ✨ make life more accessible & efficient ✨.
 
 🎓 Graduated 2019 BSc Business Computing & Entrepreneurship @ Goldsmiths, University of London.
 
