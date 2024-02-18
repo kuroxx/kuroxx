@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **NLP**
 - 🙋🏻‍♀️ I'm a volunteer at [Women in AI](https://www.womeninai.co/)
 - 📫 Reach me here: **hello.annic@gmail.com**
-- ⚡ Fun fact **I'm a South African born Taiwanese**
+- ⚡ Fun fact **I'm a Taiwanese born South African**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
