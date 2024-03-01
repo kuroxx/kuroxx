@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuroxx&label=Profile%20views&color=0e75b6&style=flat" alt="kuroxx" /> </p>
 
 <h1 align="center">Hello 👋, I'm Anni</h1>
-<h3 align="center">An AI enthusiast & full-stack developer from Taiwan</h3>
+<h3 align="center">An AI enthusiast & full-stack developer from 🇹🇼 </h3>
 <p align="center"> ✨ Using tech to make life more accessible & efficient ✨ </p>
 
 - 🌱 I’m currently learning **NLP**
