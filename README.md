@@ -1,16 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuroxx&label=Profile%20views&color=0e75b6&style=flat" alt="kuroxx" /> </p>
 
 <h1 align="center">Hello 👋, I'm Anni</h1>
-<h3 align="center">An AI enthusiast & full-stack developer from 🇹🇼 </h3>
+<h3 align="center">An AI nerd, foodie & productivity hacker</h3>
 <p align="center"> ✨ Using tech to make life more accessible & efficient ✨ </p>
 
-- 🌱 I’m currently learning **NLP**
-- 🙋🏻‍♀️ I'm a volunteer at [Women in AI](https://www.womeninai.co/)
-- ⚡ Fun fact **I'm a Taiwanese born South African**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Chat with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/annichen13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annichen13" height="30" width="40" /></a>
     <a href="https://instagram.com/anni.in.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anni.in.tech" height="30" width="40" /></a>
     <a href="https://dev.to/anni_in_tech" target="blank"><img align="center" src="https://camo.githubusercontent.com/0e3049948b88dc545d11a2ac7ee48ff96fd4fe18f0265218ac6e0dddaf6a3bf0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6465762d646f742d746f2e737667" alt="anni.in.tech" height="30" width="40" /></a>
     <a href="https://x.com/anni_in_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anni_in_tech" height="30" width="40" /></a>
